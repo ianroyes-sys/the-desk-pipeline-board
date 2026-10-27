@@ -1,0 +1,8 @@
+{
+  "deals": [
+    { "name": "Harbor Bakery", "stage": "awaiting", "value": "$1,500 + $99/mo", "note": "Demo sent; waiting on owner feedback.", "moved": "2026-01-08" },
+    { "name": "Riverside Dental", "stage": "pitched", "value": "$2,500 + $150/mo", "moved": "2026-01-16" },
+    { "name": "Elm Street Gym", "stage": "lead", "value": "TBD" },
+    { "name": "Northside Climbing", "stage": "won", "value": "$1,500 + $99/mo", "moved": "2025-12-01" }
+  ]
+}

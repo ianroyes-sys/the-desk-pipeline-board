@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+.env.*
+.DS_Store
+*.log
+# Your real pipeline, fleet and ledger stay local. Only data/example/ is committed.
+data/*.json

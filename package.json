@@ -1,0 +1,14 @@
+{
+  "name": "the-desk-pipeline-board",
+  "version": "1.0.0",
+  "description": "Read-only operating board for a small studio: deal pipeline with stale flags, app fleet counts and recorded ledger.",
+  "type": "module",
+  "bin": { "desk": "bin/desk.mjs" },
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "desk": "node bin/desk.mjs view",
+    "stale": "node bin/desk.mjs stale",
+    "board": "node bin/desk.mjs html --out docs/board.html --now 2026-01-20"
+  }
+}
